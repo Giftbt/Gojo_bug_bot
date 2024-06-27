@@ -1,24 +1,24 @@
 //base by WOLF (Xeon Bot Inc.)
 //YouTube: @W00lf_12
-//Instagram: none
+//Instagram: kingpin_torretto_7
 //Telegram: t.me/@W0lf_4
-//GitHub: @Prince-luck
-//WhatsApp: +2347045305132
+//GitHub: @Giftbt
+//WhatsApp: +254704825118
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
 
 const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "2347045305132"
-global.ownername = "🦄Wolf"
+global.ownernomer = "254704825118"
+global.ownername = "👑 Kîngpîn Tørrèttô"
 global.ytname = "YT: W00lf_12"
-global.socialm = "GitHub: Prince-luck"
-global.location = "Nigeria, Lagos"
+global.socialm = "GitHub: Giftbt"
+global.location = "Kenya,Nakuru "
 
-global.ownernumber = '2347045305132'  //creator number
-global.ownername = '🦄wolf' //owner name
-global.botname = 'Wølf ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
+global.ownernumber = '254704825118'  //creator number
+global.ownername = '👑Kîngpîn' //owner name
+global.botname = 'Kîngpîn Bug bot' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
@@ -35,13 +35,13 @@ global.link = 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G'
 global.prefa = ['','!','.','#','&']
 
 //false=disable and true=enable
-global.autoRecording = false //auto recording
+global.autoRecording = true //auto recording
 global.autoTyping = true //auto typing
-global.autorecordtype = false //auto typing + recording
+global.autorecordtype = true //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = false //auto update bio
 global.anti92 = false //auto block +92 
-global.autoswview = false //auto view status/story
+global.autoswview = true //auto view status/story
 
 //menu type 
 //v1 is image menu, 
@@ -59,10 +59,10 @@ global.bimg = '//9j/4AAQSkZJRgABAQAAAQABAAD/4gIoSUNDX1BST0ZJTEUAAQEAAAIYAAAAAAQw
 //reply messages
 global.mess = {
     done: 'Done !',
-    prem: 'This feature can be used by Alpha wolf or premium user only',
-    admin: 'This feature can be used Wolf by admin only',
+    prem: 'This feature can be used by Kîngpîn Tørrèttô or premium user only',
+    admin: 'This feature can be used  by Kîngpîn or  admin only',
     botAdmin: 'This feature can only be used when the bot is a group admin ',
-    owner: 'This feature can be used by wolf owner only',
+    owner: 'This feature can be used by Kîngpîn owner only',
     group: 'This feature is only for groups',
     private: 'This feature is only for private chats',
     wait: 'In process... ',    
